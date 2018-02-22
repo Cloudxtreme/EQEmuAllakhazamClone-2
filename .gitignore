@@ -1,0 +1,9 @@
+# Thumb DB Files
+
+*.db
+
+# PHP Storm Project
+
+.idea/
+
+config.php
